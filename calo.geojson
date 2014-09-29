@@ -14,7 +14,7 @@
 ,
 {"type":"Feature","properties":{"OBJECTID":137,"unit_code":"CALO","name":"Portsmouth Village Restrooms","feature_category":"Restroom","comments":" ","GlobalID":"{7B9402D0-129F-44CC-9AFA-385CF0A085DA}","created_user":"DWARREN","created_date":1410811416000,"last_edited_user":"DWARREN","last_edited_date":1410811610000,"source_id":null,"source_name":"DSC Park Atlas"},"geometry":{"type":"Point","coordinates":[-76.0642817,35.070227]}}
 ,
-{"type":"Feature","properties":{"OBJECTID":138,"unit_code":"CALO","name":"Portsmouth Village Compost Toilet","feature_category":"Restroom","comments":" ","GlobalID":"{2E94AD96-3DC8-4B31-8E04-1F7ECAE65731}","created_user":"DWARREN","created_date":1410811416000,"last_edited_user":"DWARREN","last_edited_date":1410811610000,"source_id":null,"source_name":"DSC Park Atlas"},"geometry":{"type":"Point","coordinates":[-76.0565517,35.065637]}}
+{"type":"Feature","properties":{"OBJECTID":138,"unit_code":"CALO","name":"Portsmouth Village Compost Toil","feature_category":"Restroom","comments":" ","GlobalID":"{2E94AD96-3DC8-4B31-8E04-1F7ECAE65731}","created_user":"DWARREN","created_date":1410811416000,"last_edited_user":"DWARREN","last_edited_date":1410811610000,"source_id":null,"source_name":"DSC Park Atlas"},"geometry":{"type":"Point","coordinates":[-76.0565517,35.065637]}}
 ,
 {"type":"Feature","properties":{"OBJECTID":139,"unit_code":"CALO","name":"Long Point Restrooms","feature_category":"Restroom","comments":" ","GlobalID":"{EC8959EE-084C-4097-BA33-01E11ADF501B}","created_user":"DWARREN","created_date":1410811416000,"last_edited_user":"DWARREN","last_edited_date":1410811611000,"source_id":null,"source_name":"DSC Park Atlas"},"geometry":{"type":"Point","coordinates":[-76.2555217,34.8996069]}}
 ,
